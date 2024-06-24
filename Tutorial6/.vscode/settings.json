@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "allclose",
+        "cimg",
+        "dtype",
+        "ffilter",
+        "fftn",
+        "fftshift",
+        "figsize",
+        "fimg",
+        "ifftn",
+        "iimg",
+        "imread",
+        "imshow",
+        "linspace",
+        "ndim"
+    ]
+}
